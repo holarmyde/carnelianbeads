@@ -1,0 +1,18 @@
+{
+  "name": "carnelianbeads",
+  "version": "1.0.0",
+  "description": "For african beads and aso oke",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "posh"
+  ],
+  "author": "FemiAremu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2"
+  }
+}
